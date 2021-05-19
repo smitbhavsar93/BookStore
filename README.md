@@ -1,7 +1,6 @@
 # BookStore
 This was my final design project for my 2nd year Object Oriented Eng Analysis and Design course. Needless to say, this was one of the most difficult Java projects
-that I've been assigned as we had to use JavaFX for all our windowing needs. The problem statement below gives a better understanding at how and what we were required
-to implement.
+that I've been assigned as we had to use JavaFX for all our windowing needs. The problem statement below gives a better understanding at how and what we were required to implement.
 
 ## Problem Statement
 You will develop a simple Book Store Application (app). The app must be graphical user interface
