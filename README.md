@@ -21,8 +21,7 @@ The app starts with a login-screen. The login-screen has three GUI items: a user
 field, and the button [login]. The owner’s username is admin and password is admin
 
 ## How to run code
-For this code to work, drag and drop the .java file into any java programming compiler, the code for us was written on a software called NetBeans 8.2.
-And that's it! No really. That's it. Now all you gotta do is run the "SimpleUI.java" and you're set!
+For this code to work, download the entire folder and remember where the download destination folder is. From here, open up NetBeans, and at the top click file, import project, from ZIP, and then navigate to the downloads folder and open this project up!
 
 ## NetBeans 8.2
 This program was coded on Eclipse, to download NetBeans 8.2, visit : https://netbeans.org/downloads/old/8.2/ and download their latest release on your compatible device.
